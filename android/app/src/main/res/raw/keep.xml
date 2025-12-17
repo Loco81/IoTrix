@@ -1,0 +1,2 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_shortcut,@drawable/ic_tile,@drawable/i1,@drawable/i2,@drawable/i3,@drawable/i4,@drawable/i5,@drawable/i6,@drawable/i7,@drawable/i8,@drawable/i9,@drawable/i10,@drawable/i11,@drawable/i12,@drawable/i13,@drawable/i14" />
