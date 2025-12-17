@@ -35,8 +35,8 @@ import '/Pages/main_page.dart';
 
 
 
-final LocalStorage localStorage = LocalStorage('LoCo@IoTrix');
-final FlutterSecureStorage secureStorage = FlutterSecureStorage(aOptions: AndroidOptions(encryptedSharedPreferences: true, preferencesKeyPrefix: 'LoCo@IoTrix_'));
+final LocalStorage localStorage = LocalStorage('IoTrix');
+final FlutterSecureStorage secureStorage = FlutterSecureStorage(aOptions: AndroidOptions(encryptedSharedPreferences: true, preferencesKeyPrefix: 'IoTrix_'));
 
 Language sentences = Language();
 List gettedTheme = [];   // To store theme data
