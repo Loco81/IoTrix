@@ -25,7 +25,7 @@
   </p>
 </div>
 <br>
-><div align="center">
+<div align="center">
   <p align="center">
     <img width="300" src="/images/English/image07.png" alt="IoTrix" />
     <img width="300" src="/images/English/image08.png" alt="IoTrix" />
