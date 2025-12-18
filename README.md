@@ -11,25 +11,21 @@
 <br>
 <div align="center">
   <p align="center">
-    <img width="300" src="/images/English/image01.png" alt="IoTrix" />
-    <img width="300" src="/images/English/image02.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image01.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image02.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image03.png" alt="IoTrix" />
   </p>
 </div>
 <br>
 <div align="center">
   <p align="center">
-    <img width="300" src="/images/English/image03.png" alt="IoTrix" />
-    <img width="300" src="/images/English/image04.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image04.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image05.png" alt="IoTrix" />
+    <img width="200" src="/images/English/image06.png" alt="IoTrix" />
   </p>
 </div>
 <br>
-<div align="center">
-  <p align="center">
-    <img width="300" src="/images/English/image05.png" alt="IoTrix" />
-    <img width="300" src="/images/English/image06.png" alt="IoTrix" />
-  </p>
-</div>
-<br><div align="center">
+><div align="center">
   <p align="center">
     <img width="300" src="/images/English/image07.png" alt="IoTrix" />
     <img width="300" src="/images/English/image08.png" alt="IoTrix" />
