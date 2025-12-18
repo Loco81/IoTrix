@@ -3,23 +3,42 @@
 <h3 align="center"> <a href="https://cafebazaar.ir/app/com.LoCo.IoTrix"> Click here to visit IoTrix on Bazzar </a> </h3>
 <h3 align="center"> <a href="https://myket.ir/app/com.LoCo.IoTrix"> Click here to visit IoTrix on Myket </a> </h3>
 <p align="center"> Fast shortcuts for your IoT devices! 🌐 </p>
-<p align="center"> Do you want to monitor your IP or have you purchased a static IP VPN service and want to make sure it is working?🧐 This app helps you monitor your network and IP details in real time. It detects whether a VPN is active, checks your internet connectivity status, and displays your public IP along with detailed location and ISP information. You can also view your local IP addresses for both Wi-Fi and hotspot connections.👍<br>A built-in history feature keeps track of every public IP change, storing the country, timestamp, and previous records so you can see whether your IP has remained static or changed over time. Perfect for testing static IP VPN services or monitoring IP consistency.😋<br>Any question or feedback? My website address is located on this page or in the About section of the app. Contact me. </p>
+<p align="center"> IoTrix is a smart application designed for IoT and communication with your smart devices!😉 What makes IoTrix unique is its ability to detect and control your smart objects (such as lamps, garage doors, etc.) through notification panel tiles, Android events, voice assistants, home-screen shortcuts, your phone’s side buttons, and more!😀 The app supports both online and offline/local network communication, includes smart transmitters and receivers, and even allows you to share your items with other IoTrix users.👍 A complete guide for smart-enabling your devices and connecting them to IoTrix is built right into the app. Simply by installing IoTrix, you gain access to comprehensive information about IoT and smart device integration.❤️<br>Any question or feedback? My website address is located on this page or in the About section of the app. Contact me. </p>
 <br>
-<p align="center"> دریافت لحظه ای آی پی خود همراه با تاریخچه آی پی های قبلی 😉 </p>
-<p align="center"> آیا می‌خواهید آی‌پی خود را رصد کنید یا یک سرویس گذر از تحریم با آی‌پی ثابت خریداری کرده‌اید و می‌خواهید مطمئن شوید که کار می‌کند؟🧐 این برنامه به شما کمک می‌کند تا جزئیات شبکه و آی‌پی خود را به صورت لحظه‌ای رصد کنید. این برنامه فعال بودن VPN را تشخیص می‌دهد، وضعیت اتصال به اینترنت شما را بررسی می‌کند و آی‌پی عمومی شما را به همراه اطلاعات دقیق موقعیت مکانی و ISP نمایش می‌دهد. همچنین می‌توانید آدرس‌های آی‌پی محلی خود را برای اتصالات Wi-Fi و هات‌اسپات مشاهده کنید.👍<br>ویژگی تاریخچه داخلی، هر تغییر آی‌پی عمومی را ردیابی می‌کند، کشور، زمان و سوابق قبلی را ذخیره می‌کند تا بتوانید ببینید که آیا آی‌پی شما ثابت مانده یا با گذشت زمان تغییر کرده است. برای آزمایش سرویس‌های گذر از تحریم با آی‌پی ثابت یا نظارت بر ثبات آی‌پی عالی است.😋<br>سوالی یا نظری دارید؟ آدرس سایت من در این صفحه یا بخش درباره ی من برنامه قرار گرفته است. با من تماس بگیرید. </p>
+<p align="center"> میان‌بر های سریع برای اشیا هوشمند! 🌐 </p>
+<p align="center"> آی‌او‌تریکس یک برنامه ی هوشمند با کاربرد اینترنت اشیا و ارتباط با وسایل هوشمند شما است!😉 چیزی که آی‌او‌تریکس را متمایز میکند، قابلیت شناسایی و کنترل اشیا هوشمند خود (مانند لامپ، درب پارکینگ و ...) از طریق کاشی پنل اعلان ها، توسط رویداد های اندروید و دستیار های صوتی، میان بر روی صفحه اصلی، دکمه های بغل گوشی خود و غیره است!😀 این برنامه هم از ارتباط آنلاین و هم آفلاین تحت شبکه پشتیبانی می‌کند، فرستنده و گیرنده هوشمند دارد، و حتی می‌توانید آیتم های خود را با دیگر کاربران آی‌او‌تریکس به اشتراک بگذارید.👍 آموزش هوشمند سازی وسایل و ارتباط آنها با آی‌او‌تریکس بصورت کامل در برنامه وجود دارد و فقط با نصب آی‌او‌تریکس، میتوانید به اطلاعات جامع هوشمند سازی و اینترنت اشیا دست یابید.❤️<br>سوالی یا نظری دارید؟ آدرس سایت من در این صفحه یا بخش درباره ی من برنامه قرار گرفته است. با من تماس بگیرید. </p>
 <br>
 <br>
 <div align="center">
   <p align="center">
-    <img width="300" src="/images/English/image1.png" alt="IoTrix" />
-    <img width="300" src="/images/English/image2.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image01.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image02.png" alt="IoTrix" />
   </p>
 </div>
 <br>
 <div align="center">
   <p align="center">
-    <img width="300" src="/images/English/image3.png" alt="IoTrix" />
-    <img width="300" src="/images/English/image4.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image03.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image04.png" alt="IoTrix" />
+  </p>
+</div>
+<br>
+<div align="center">
+  <p align="center">
+    <img width="300" src="/images/English/image05.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image06.png" alt="IoTrix" />
+  </p>
+</div>
+<br><div align="center">
+  <p align="center">
+    <img width="300" src="/images/English/image07.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image08.png" alt="IoTrix" />
+  </p>
+</div>
+<br><div align="center">
+  <p align="center">
+    <img width="300" src="/images/English/image09.png" alt="IoTrix" />
+    <img width="300" src="/images/English/image10.png" alt="IoTrix" />
   </p>
 </div>
 <br>
